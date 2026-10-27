@@ -18,4 +18,4 @@ jobs:
         run: test -f index.html
 
       - name: Deployment successful
-        run: echo "Application deployment pipeline completed successfully!"
+        run: echo "Application deployment pipeline completed successfully.!"
